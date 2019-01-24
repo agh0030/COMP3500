@@ -1,0 +1,18 @@
+Austin Hall
+agh0030@auburn.edu
+23 Jan 2019
+Project 1 Report
+
+Step 1: Had no issues setting up linux environment, I chose to install CentOS on a virtual machine.
+
+Step 2: I was able to complete testing the script command with no issues as well.
+     The file for step 2 is saved in a .script file, named Step2_scripts.script
+
+Step 3: The script log for 3.1 is saved as 'commands.script' within the .tgz file sub		mitted
+     	The system attributes described by task 3.2  are stored in the .txt files as according to the project specifications.  I was not sure if it would work correctly if saved in a script file, so I apologize for the inconvenience if that isnt the correct way to submit the information.
+	The session for task 3.3 is saved to the script file gcc-gdb.script.
+	After creating the .gdbinit file, it had dissapeared and I could not access it fro	m the file explorer. I corrected this by accessing it directly throguh terminal,          using 'emacs .gdbinit' in order to edit the file.
+	The scripts for task 3.4 are saved to the script file git.script.  I encountered two problems here, the first being that git diff did not return anything on my console.  The second issue I faced was when uploading my git repository, I could not figure out how to push files in the form of a folder to appear on my repository, and still have not figured that out yet.  It pushes the folder, but the folder cannot be accessed when viewing it on GitHub.
+
+The instructions for how to submit were a little unclear to me, and I believe I have everything required to submit within the compressed file.
+If there is anything I am missing, please do let me know and I will do what I can in case I did not submit this project the correct way.

@@ -1,0 +1,24 @@
+           CPU0       
+  0:        288    XT-PIC-XT-PIC    timer
+  1:       2376    XT-PIC-XT-PIC    i8042
+  2:          0    XT-PIC-XT-PIC    cascade
+  8:          0    XT-PIC-XT-PIC    rtc0
+  9:      11805    XT-PIC-XT-PIC    acpi, eth0
+ 10:       6116    XT-PIC-XT-PIC    ohci_hcd:usb1, vmwgfx
+ 12:        150    XT-PIC-XT-PIC    i8042
+ 14:      36176    XT-PIC-XT-PIC    ata_piix
+ 15:       1135    XT-PIC-XT-PIC    ata_piix
+NMI:          0   Non-maskable interrupts
+LOC:     100068   Local timer interrupts
+SPU:          0   Spurious interrupts
+PMI:          0   Performance monitoring interrupts
+IWI:          0   IRQ work interrupts
+RES:          0   Rescheduling interrupts
+CAL:          0   Function call interrupts
+TLB:          0   TLB shootdowns
+TRM:          0   Thermal event interrupts
+THR:          0   Threshold APIC interrupts
+MCE:          0   Machine check exceptions
+MCP:          6   Machine check polls
+ERR:          0
+MIS:          0
